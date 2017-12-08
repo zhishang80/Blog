@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-sitemap
+permalink: /blog/:year/:month/:day/:title
+markdown: kramdown
